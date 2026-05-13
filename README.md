@@ -204,3 +204,5 @@ Both Type A and Type B included in the prompt.
 The individual components in `prompts/` are combined into full prompts as follows. Three examples are shown in [`examples/`](examples/).
 
 ---
+
+[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fnth221%2Fcmt-kcc2026&label=visitors)](https://hitscounter.dev)
